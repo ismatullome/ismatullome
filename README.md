@@ -5,7 +5,7 @@ My name is Ismatullo, and I'm a Front-end Engineer.
 
 ## About Me
 
-- I love ["code", "coffee"].
+- I love ["coding", "coffee"].
 
 ## Skills
 
