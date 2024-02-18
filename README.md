@@ -1,7 +1,5 @@
 
-<a href="https://app.daily.dev/ismat"><img src="https://api.daily.dev/devcards/95910bda44bf4b8492e2c415650a665f.png?r=yc9" width="400" alt="ismat's Dev Card" align="right"/></a>
-  
-My name is Ismatullo, and I'm a Front-end Engineer.
+<a href="https://app.daily.dev/ismatullome"><img src="https://api.daily.dev/devcards/v2/1yOvK6mgBn8XUW5QRYQUs.png?type=wide&r=r9d" width="652" alt="Ismatullo's Dev Card"/></a>
 
 ## About Me
 
